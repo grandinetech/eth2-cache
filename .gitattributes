@@ -1,0 +1,2 @@
+holesky/beacon_state_slot_000000_root_0x338514c275b90d4cbf7039da5bd194b15c18ed5bd6a5d9f165ed911313deb486.ssz filter=lfs diff=lfs merge=lfs -text
+holesky/beacon_state_slot_002584_root_0xe6dfdd970e01f289ba92acaaf0e6c4b1ffed34030b86c3aa227eac98752e676a.ssz filter=lfs diff=lfs merge=lfs -text
